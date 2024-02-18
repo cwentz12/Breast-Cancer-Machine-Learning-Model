@@ -42,7 +42,7 @@ The insights can assist us in attempting to build models with even higher perfor
 2) We can also experiment with combining features in some way
 3) We could experiment with other types of models like a Random Forest model and compare results to select a champion model
 
-The insights can also be used for:
-* further breast cancer research
-* to help spot early warning signs of malignant cells in patients
-* to help in the development of breast cancer treatment options
+The insights can also be used:
+* For further breast cancer research
+* To help spot early warning signs of malignant cells in patients
+* To help in the development of breast cancer treatment options
