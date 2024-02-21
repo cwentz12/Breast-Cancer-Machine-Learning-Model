@@ -28,11 +28,14 @@ The dataset is also hosted at UC Irvine's machine learning repository at https:/
 
 * Out of 114 images in the testing dataset, the model only had 6 incorrect diagnosis predictions.
 
-* The model identified the the top 4 most predictive features as:
-     1) the mean of the 3 largest concave points in images
-     2) the mean of the 3 largest nuclei areas in images
-     3) the standard deviation in gray-scale values of the nuclei
-     4) the standard error of nuclei areas in images
+The model identified the the top 4 most predictive features as:
+1) The mean of the 3 largest concave points in images
+2) The mean of the 3 largest nuclei areas in images
+3) The standard deviation in gray-scale values of the nuclei
+4) The standard error of nuclei areas in images
+
+
+
 
 ## Recommendations
 
